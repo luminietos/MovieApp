@@ -10,5 +10,8 @@ It was done using Visual Studio Code and Command Prompt/Terminal/Powershell, and
 ## Purpose
 Uni assignment demo, on learning more about Ionic's components and frameworks.
 
+## Status
+The development of this project is complete for the foreseeable future.
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
